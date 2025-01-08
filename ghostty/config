@@ -1,0 +1,11 @@
+font-family = "Geist Mono"
+font-size = 20
+font-feature = -liga
+# theme = Rapture
+theme = rose-pine
+shell-integration-features = no-cursor
+cursor-style-blink = false
+keybind = global:ctrl+grave_accent=toggle_quick_terminal
+quick-terminal-position = center
+quick-terminal-animation-duration = 0
+mouse-hide-while-typing = true
